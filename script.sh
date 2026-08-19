@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Linea diferente"
+echo "Linea dfjhgkjdfguhdiferente"
 echo "Otra rama"
 echo "Primer commit"
 echo "Primer commit"
